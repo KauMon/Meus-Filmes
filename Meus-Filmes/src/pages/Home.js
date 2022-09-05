@@ -7,8 +7,16 @@ import { View, Text, TextInput, TouchableOpacity, StyleSheet} from "react-native
 
               <Text> Meus filmes</Text>
               <Text> Ola Kauan, Boa Noite </Text>
+             
+              <TouchableOpacity>
+                  <Text>Adicionar</Text>
+              </TouchableOpacity>
 
               </View>
+
+            
+
+
 
       );
   }
